@@ -1,0 +1,5 @@
+﻿  RecipeRepo.cpp
+c:\users\yfant\source\repos\proiect oop\reciperepo.cpp(18): warning C4101: 'i': unreferenced local variable
+c:\users\yfant\source\repos\proiect oop\reciperepo.cpp(61): warning C4715: 'RecipeRepo::getResourceName': not all control paths return a value
+c:\users\yfant\source\repos\proiect oop\reciperepo.cpp(52): warning C4715: 'RecipeRepo::readRecipe': not all control paths return a value
+  PROIECT OOP.vcxproj -> C:\Users\yfant\source\repos\Debug\PROIECT OOP.exe

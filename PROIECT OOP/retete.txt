@@ -1,0 +1,23 @@
+Cappuccino
+COFFEE 5
+WATER 60
+MILK 10
+--------
+LatteMacchiato
+COFFEE 10 
+WATER 40
+MILK 20
+--------
+Espresso
+COFFEE 7
+WATER 34
+--------
+Water
+WATER 100
+--------
+DoubleEspresso
+COFFEE 14
+WATER 34
+--------
+Tea
+WATER 100
